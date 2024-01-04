@@ -77,16 +77,18 @@ h1{
   column-gap: 40px;
   row-gap: 30px;
   /* border: 1px solid green; */
+
 }
 .options{
   border-radius: 25px;
   width: 290px;
   transition: 0.3s;
+  
 }
 .options:hover{
-  background-color: #D4514C;
+  background-color: rgb(188, 184, 184);
   cursor: pointer;
-
+  box-shadow: rgba(0,0,0,0.35) 5px 5px 14px;
 }
 .btns{
   margin-top: 30px;
